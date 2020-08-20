@@ -2,14 +2,15 @@
 </h2>
 <p align='left'><a href="https://github.com/ColorfulGhost">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ColorfulGhost&theme=vue&show_icons=true&include_all_commits=true&count_private=true" /></a></p> 
-<img align='right' src="\assets\file_5962714.png" width="230">
+<img align='right' src="https://raw.githubusercontent.com/ColorfulGhost/ColorfulGhost/master/assets/file_5962714.png" width="240">
 
 ### 👨🏻‍💻  About Me
 
 ---
 
-<center><h1>404 Not Found</h1></center>
-<center>nginx</center>
+<h1 align='center'>404 Not Found</h1>
+<p align='center'>nginx</p>
+
 
 
 
