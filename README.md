@@ -1,16 +1,54 @@
-### Hi there 👋
+<h2> Hi, I'm Wan Lin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
+<p align='left'><a href="https://github.com/ColorfulGhost">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ColorfulGhost&theme=vue&show_icons=true&include_all_commits=true&count_private=true" /></a></p> 
+<img align='right' src="\assets\file_5962714.png" width="230">
 
-<!--
-**ColorfulGhost/ColorfulGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻  About Me
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center><h1>404 Not Found</h1></center>
+<center>nginx</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+### 🛠  Tech Stack
+
+```javascript
+const wanLin = {
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [Jetbrains IDEA, PyCharm, VSCode, Git, MarkDown],
+  web: [Vue, Angular, Bootstarp, Node.js],
+  backend: [Spring Boot, Dubbo, RocketMQ],
+  build: [Npm, Gulp, Yarn, Docker],
+  database: [Redis, MySQL],
+  bot: [onebot]
+}
+```
+
+### 🤝🏻<em><b>  Connect with Me</b> </em>
+
+<p align="center">
+<a href="https://www.iacg.moe"><img src="https://img.shields.io/badge/-www.iacg.moe-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:admin@iacg.moe"><img src="https://img.shields.io/badge/-admin@iacg.moe-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/Colorful_Ghost"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat-square&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
