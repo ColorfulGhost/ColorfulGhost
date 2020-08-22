@@ -38,8 +38,7 @@ const wanLin = {
   web: [Vue, Angular, Bootstarp, Node.js],
   backend: [Spring Boot, Dubbo, RocketMQ],
   build: [Npm, Gulp, Yarn, Docker],
-  database: [Redis, MySQL],
-  bot: [onebot]
+  database: [Redis, MySQL]
 }
 ```
 
