@@ -45,6 +45,7 @@ const wanLin = {
 ### 🤝🏻<em><b>  Connect with Me</b> </em>
 
 <p align="center">
+  <a href="https://blog.vimc.cc/"><img src="https://img.shields.io/badge/-blog.vimc.cc-4423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.iacg.moe"><img src="https://img.shields.io/badge/-www.iacg.moe-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:admin@iacg.moe"><img src="https://img.shields.io/badge/-admin@iacg.moe-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/Colorful_Ghost"><img src="https://img.shields.io/badge/-Telegram-1769FF?style=flat-square&logo=telegram&logoColor=white"/></a>
