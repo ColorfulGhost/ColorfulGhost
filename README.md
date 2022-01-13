@@ -52,5 +52,5 @@ const wanLin = {
 
 ---
 
-<img align='center' src="https://genshin-card.getloli.com/rand/5274188.png">
-
+<img src="https://genshin-card.getloli.com/rand/5274188.png">
+<img src="http:s//www.steamsignature.com/card/0/76561197964009848.png" alt=""/>
